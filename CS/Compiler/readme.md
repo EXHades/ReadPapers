@@ -1,0 +1,1 @@
+- [Mapping to Bits: Efficiently Detecting Type Confusion Errors](Bitype.pdf) - [Bitype](https://github.com/bin2415/Bitype) - 高效检测类型混淆错误
