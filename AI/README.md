@@ -1,0 +1,1 @@
+- [Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution](Theoretical%20Impediments%20to%20Machine%20Learning%20With%20Seven%20Sparks%20from%20the%20Causal%20Revolution.pdf) - 机器学习无法成为强AI基础，突破口在“因果革命” - Judea Pearl (图灵奖得主、贝叶斯网络之父)
