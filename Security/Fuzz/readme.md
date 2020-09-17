@@ -5,6 +5,7 @@
 - [FUDGE- Fuzz Driver Generation at Scale](FUDGE-%20Fuzz%20Driver%20Generation%20at%20Scale.pdf) 大规模自动化生产用于 Fuzz 目标的测试驱动代码
 - [Binary-level Directed Fuzzing for Use-After-Free Vulnerabilities](raid20-final286.pdf)
 - [HFL: Hybrid Fuzzing on the Linux Kernel](./ndss20-hfl.pdf)
+- [BigFuzz: Efficient Fuzz Testing for Data Analytics Using Framework Abstraction](./bigfuzz-ase20.pdf)
 
 ---
 > FileSystem fuzz
