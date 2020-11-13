@@ -11,6 +11,7 @@
 - [Binary-level Directed Fuzzing for Use-After-Free Vulnerabilities](./Fuzz/raid20-final286.pdf)
 - [HFL: Hybrid Fuzzing on the Linux Kernel](./Fuzz/ndss20-hfl.pdf)
 - [BigFuzz: Efficient Fuzz Testing for Data Analytics Using Framework Abstraction](./Fuzz/bigfuzz-ase20.pdf)
+- [Fuzzing Binaries for Memory Safety Errors with QASan](./fuzz/../Fuzz/Fuzzing%20Binaries%20for%20Memory%20Safety%20Errors%20with%20QASan.pdf)
 
 ---
 > FileSystem fuzz
